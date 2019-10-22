@@ -1,2 +1,4 @@
 # fingers-love-dancing-blogging-platform
-Playing Flask around, i know you also enjoy it Flask! As long as it's mutual let's have fun, shall we?
+My first attempt at building flask web app and hosting it at heroku. Not perfect, but hurray anyway!
+
+Go to [fingerslovedancing](http://fingerslovedancing.herokuapp.com/)
